@@ -1,0 +1,5 @@
+#Ignore all pycache!
+__pycache__
+#Ignoring .db and .csv files as well
+*.csv
+*.db
